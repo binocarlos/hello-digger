@@ -1,0 +1,9 @@
+##############################################
+# a very basic website
+test1:
+  document_root: ./www
+  domains:
+    - localhost
+    - hello.local.digger.io
+    - hello.digger.io
+    - 
